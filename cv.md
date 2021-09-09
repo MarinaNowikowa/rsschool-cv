@@ -54,4 +54,4 @@ function deepCount(a){
 ## Languages:
 
 * English - Intermediate
-* German - Upper-intermediate
+* German - Upper-Intermediate
